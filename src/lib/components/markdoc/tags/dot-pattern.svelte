@@ -1,0 +1,3 @@
+<div
+	class="min-h-[256px] w-full bg-[radial-gradient(hsl(var(--foreground))_1px,_transparent_0)] bg-[length:8px_8px]"
+/>
